@@ -1,59 +1,62 @@
 # 🔢 The Mathematical Lab Bench: Computational Framework
-> **Advanced Numerical Analysis, Statistical Modeling & Scientific Computing**
+> **A Comprehensive 50-Lesson Masterclass in Numerical Analysis, System Dynamics & Scientific Computing**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Academic](https://img.shields.io/badge/Ph.D.-Mathematics_&_Education-gold.svg)]()
-[![Status](https://img.shields.io/badge/Research-Active-green.svg)]()
+[![Status](https://img.shields.io/badge/Stage_5-Completed-brightgreen.svg)]()
+[![Location](https://img.shields.io/badge/Doha-Qatar-red.svg)]()
 
-Welcome to **The Mathematical Lab Bench**. This repository is a professional computational laboratory curated by **Dr. Ozhan Akdag**. It serves as a bridge between high-level mathematical theory and robust data analytics, providing scalable solutions for complex numerical problems.
-
----
-
-## 🔬 Core Laboratory Modules
-
-### 📈 I. Advanced Calculus & Numerical Analysis
-*Implementation of high-precision mathematical models.*
-- **Integration:** Trapezoidal and Simpson's Rule benchmarking.
-- **Differential Modeling:** Euler and RK4 methods for dynamical systems.
-- **Convergence Analysis:** Taylor and Fourier series visualization.
-
-### 📊 II. Statistical Inference & Data Intelligence
-*Ph.D. level statistical validation for predictive analytics.*
-- **Distribution Modeling:** Gaussian analysis and Z-score outlier detection.
-- **Hypothesis Testing:** Rigorous validation using `SciPy` and `Statsmodels`.
-- **Signal Processing:** Noise reduction and trend extraction in time-series data.
-
-### 🤖 III. Applied Robotics & STEM Mathematics
-*Computational foundations for automated control systems.*
-- **Control Theory:** PID loop modeling and stability analysis.
-- **Sensor Fusion:** Mathematical filtering for Arduino-based telemetry.
+Welcome to **The Mathematical Lab Bench**. Curated by **Dr. Ozhan Akdag**, this repository is a professional computational laboratory that bridges high-level mathematical theory with robust data intelligence.
 
 ---
 
-## 🖼️ Featured Analysis: Gaussian Distribution
-One of the primary goals of this lab is to transform raw data into statistically sound visual intelligence.
+## 🏛️ The Computational Curriculum (50 Lessons)
 
-<p align="center">
-  <img src="assets/statistical_analysis_demo.png" width="700px" alt="Statistical Analysis" />
-</p>
+This laboratory is structured as a progressive curriculum, moving from foundational calculus to complex partial differential equations and control theory.
 
-> **Interactive Insight:** You can explore the full mathematical proof and the Python implementation in our [Statistical Validation Notebook](./notebooks/Statistical_Validation.ipynb).
+### 🧬 Phase V: Differential Dynamics & Numerical Precision
+*The most advanced segment of the lab, focusing on high-fidelity simulations.*
 
-> **Note:** The visualization above illustrates an automated Gaussian curve fitting over a stochastic dataset, identifying the probability density function (PDF).
+* **Numerical Solvers:** Implementation of Euler and **Runge-Kutta (RK4)** with rigorous error analysis.
+* **Population Models:** Modeling biological systems via **Logistic Growth** and **Lotka-Volterra** (Predator-Prey).
+* **Physics of Diffusion:** Solving the **1D Heat Equation** using finite difference methods.
+* **Signal & Control:** System stability analysis through **Fourier** and **Laplace Transforms**, culminating in **PID Control** loops.
+
+### 🏛️ Phases I - IV: Mathematical Pillars
+* **Calculus & Analysis:** Integration (Simpson/Trapezoidal), Taylor Series, and Convergence.
+* **Statistical Inference:** Gaussian distribution modeling, Z-score outlier detection, and hypothesis testing.
+* **Linear Algebra:** Matrix decompositions and vector space computations.
+
+---
+
+## 🖼️ Featured Visual Intelligence
+Every simulation in this lab generates separate, high-resolution 2D and 3D assets to ensure mathematical clarity.
+
+| 📉 RK4 Error Surface (Lesson 43) | 🌪️ Predator-Prey Orbit (Lesson 45) |
+| :---: | :---: |
+| <img src="assets/43_rk4_3d.png" width="400"/> | <img src="assets/45_lotka_3d.png" width="400"/> |
+
+| 🌡️ Thermal Diffusion (Lesson 46) | 🎛️ PID System Response (Lesson 50) |
+| :---: | :---: |
+| <img src="assets/46_heat_3d.png" width="400"/> | <img src="assets/50_pid_2d.png" width="400"/> |
 
 ---
 
 ## 🛠️ Technological Stack
-* **Language:** Python 3.10+
-* **Libraries:** `NumPy`, `SciPy`, `Matplotlib`, `Pandas`, `SymPy`
-* **Environment:** Linux (Fedora) & Windows 11 Dual-Boot
+* **OS:** Dual-Boot Environment (Fedora Workstation & Windows 11)
+* **Core:** Python 3.10+, NumPy, SciPy, SymPy
+* **Visuals:** Matplotlib (3D Axes3D engine), Seaborn
+* **Data:** Pandas, Scikit-learn
 
----
-
-## 👨‍🏫 About the Principal Investigator
-**Dr. Ozhan Akdag** is a Doctor of Mathematics and Education with over two decades of experience in academic instruction and data analysis. Currently based in Doha, Qatar, he focuses on the intersection of **Pure Mathematics** and **Computational Automation**.
+### 📦 Installation
+```bash
+pip install -r requirements.txt
+```
 
 ---
 <p align="center">
-  <i>"Where mathematical rigor meets scalable code."</i>
+<i>"Where mathematical rigor meets scalable code."</i>
 </p>
+
+👨‍🏫 About the Principal Investigator
+Dr. Ozhan Akdag is a Doctor of Mathematics and Education with over 20 years of academic experience. Currently based in Doha, Qatar, his work focuses on the intersection of Pure Mathematics, Robotics (Arduino), and Freelance Data Analytics.
