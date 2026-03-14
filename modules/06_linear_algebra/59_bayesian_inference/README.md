@@ -60,7 +60,7 @@ When a ship goes missing at sea, rescuers use Bayesian models to create a "proba
 
 We watch a distribution "shift" and "narrow." We start with a vague idea (flat prior) and, as more data comes in, the distribution sharpens around the true value.
 
-!\[Bayesian 2D Posterior Update](../../../assets/59\_bayesian\_2d.png)
+![Bayesian 2D Posterior Update](../../../assets/59\_bayesian\_2d.png)
 
 
 
@@ -68,7 +68,7 @@ We watch a distribution "shift" and "narrow." We start with a vague idea (flat p
 
 A 3D visualization showing the evolution of the \*\*Posterior PDF\*\* as the number of observations ($n$) increases. It looks like a wave that starts wide and becomes a sharp, tall peak as certainty grows.
 
-!\[Bayesian 3D Learning Landscape](../../../assets/59\_bayesian\_3d.png)
+![Bayesian 3D Learning Landscape](../../../assets/59\_bayesian\_3d.png)
 
 
 
