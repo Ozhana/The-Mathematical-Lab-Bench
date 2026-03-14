@@ -33,6 +33,7 @@ In this lesson, we generate synthetic datasets with varying degrees of correlati
 A multi-plot analysis showing how different correlation coefficients ($r = 0.9, 0, -0.9$) transform the shape of the data cloud from a tight line to a random mist.
 
 !\[Covariance 2D Scatter Maps](../../../assets/53_cov_2d.png)
+                              (../../../assets/52_clt_2d.png)
 
 
 
