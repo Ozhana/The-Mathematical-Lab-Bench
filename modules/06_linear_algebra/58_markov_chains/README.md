@@ -56,7 +56,7 @@ Banks use Markov models to predict the probability of a customer moving from "On
 
 We track how the probability of being in each state evolves over "time steps." We witness the system converging from an initial guess to a stable \*\*Steady State\*\*.
 
-!\[Markov 2D Transition Flow](../../../assets/58\_markov\_2d.png)
+![Markov 2D Transition Flow](../../../assets/58\_markov\_2d.png)
 
 
 
@@ -64,7 +64,7 @@ We track how the probability of being in each state evolves over "time steps." W
 
 For a 3-state system, all possible probability distributions lie on a triangle (simplex). We visualize the trajectory of the system as it "walks" towards its equilibrium point in 3D space.
 
-!\[Markov 3D Simplex Path](../../../assets/58\_markov\_3d.png)
+![Markov 3D Simplex Path](../../../assets/58\_markov\_3d.png)
 
 
 
