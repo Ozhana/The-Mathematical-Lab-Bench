@@ -56,7 +56,7 @@ Central banks use similar optimization techniques to find interest rate levels t
 
 We see the "loss" (error) decreasing over each iteration. It shows how the algorithm quickly drops at first and then slowly approaches the global minimum.
 
-!\[Gradient Descent 2D Convergence](../../../assets/56\_gd\_2d.png)
+![Gradient Descent 2D Convergence](../../../assets/56\_gd\_2d.png)
 
 
 
@@ -64,7 +64,7 @@ We see the "loss" (error) decreasing over each iteration. It shows how the algor
 
 This is the "Visual Feast." We visualize a 3D "bowl" (Cost Function) and watch our "ball" (the parameters) roll down the slopes until it reaches the bottom of the valley.
 
-!\[Gradient Descent 3D Optimization Path](../../../assets/56\_gd\_3d.png)
+![Gradient Descent 3D Optimization Path](../../../assets/56\_gd\_3d.png)
 
 
 
