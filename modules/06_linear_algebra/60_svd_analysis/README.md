@@ -54,7 +54,7 @@ In NLP, SVD helps computers understand that "Doctor" and "Physician" are related
 
 We plot the values of $\\Sigma$. This "Scree Plot" shows how a few components hold almost all the power (information), while most are just noise. This is the mathematical proof that we can "compress" data.
 
-!\[SVD 2D Decay](../../../assets/60\_svd\_2d.png)
+![SVD 2D Decay](../../../assets/60\_svd\_2d.png)
 
 
 
@@ -62,7 +62,7 @@ We plot the values of $\\Sigma$. This "Scree Plot" shows how a few components ho
 
 We visualize a complex 3D mathematical surface and then "reconstruct" it using only a fraction of its SVD components. You can see the surface's core shape emerge from the approximation.
 
-!\[SVD 3D Reconstruction](../../../assets/60\_svd\_3d.png)
+![SVD 3D Reconstruction](../../../assets/60\_svd\_3d.png)
 
 
 
