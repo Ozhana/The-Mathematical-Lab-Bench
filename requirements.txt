@@ -1,1 +1,20 @@
+# --- Core Numerical Computing ---
+numpy>=1.22.0
+scipy>=1.8.0
 
+# --- Symbolic Mathematics (Algebra & Calculus) ---
+sympy>=1.10.0
+
+# --- Data Manipulation & Analysis ---
+pandas>=1.4.0
+
+# --- Machine Learning & Data Mining ---
+scikit-learn>=1.0.0
+
+# --- Visualization & Graphics ---
+matplotlib>=3.5.0
+
+# --- Technical/Scientific Utils ---
+# Not: mpl_toolkits matplotlib ile birlikte gelir, 
+# ancak ekstra görselleştirme için seaborn eklenebilir.
+seaborn>=0.11.0
