@@ -1,8 +1,8 @@
-\# Lesson 61: Parabolic Projectiles - The Geometry of Flight
+# Lesson 61: Parabolic Projectiles - The Geometry of Flight
 
 
 
-\### 📗 The Mathematical Essence (High School Level)
+### 📗 The Mathematical Essence (High School Level)
 
 A projectile's path is defined by a \*\*Quadratic Function\*\*. Because gravity only pulls downward, the vertical position ($y$) changes quadratically over time, while the horizontal position ($x$) changes linearly.
 
@@ -48,11 +48,11 @@ Engineers at luxury hotels (like the Bellagio in Vegas) use quadratic equations 
 
 
 
-\### 📊 Visualizing the Arc
+### 📊 Visualizing the Arc
 
 
 
-\#### I. Multiple Shot Angles (2D)
+#### I. Multiple Shot Angles (2D)
 
 We visualize how changing the initial launch angle (30°, 45°, 60°) changes the parabola's shape. This proves that \*\*45 degrees\*\* is the magic number for maximum distance.
 
