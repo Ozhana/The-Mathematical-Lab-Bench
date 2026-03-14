@@ -56,7 +56,7 @@ The energy states of an atom are represented by the eigenvalues of a mathematica
 
 We visualize how a matrix "stretches" space. We plot original unit vectors and their transformed versions. The vectors that don't change their span (direction) are our Eigenvectors.
 
-!\[Eigen 2D Transformation](../../../assets/57\_eigen\_2d.png)
+![Eigen 2D Transformation](../../../assets/57\_eigen\_2d.png)
 
 
 
@@ -64,7 +64,7 @@ We visualize how a matrix "stretches" space. We plot original unit vectors and t
 
 A 3D visualization of the quadratic form $v^T A v$. This surface reveals the "principal axes" of the matrix, showing where the transformation is strongest and weakest.
 
-!\[Eigen 3D Surface](../../../assets/57\_eigen\_3d.png)
+![Eigen 3D Surface](../../../assets/57\_eigen\_3d.png)
 
 
 
