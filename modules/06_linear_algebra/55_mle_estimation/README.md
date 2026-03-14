@@ -62,7 +62,7 @@ In this module, we simulate a set of data points from a Normal Distribution and 
 
 A plot showing how the likelihood changes as we vary one parameter (e.g., $\\mu$). The "peak" of this curve is our MLE estimate—the most logical explanation for our data.
 
-!\[MLE 2D Likelihood Curve](../../../assets/55\_mle\_2d.png)
+![MLE 2D Likelihood Curve](../../../assets/55\_mle\_2d.png)
 
 
 
@@ -70,7 +70,7 @@ A plot showing how the likelihood changes as we vary one parameter (e.g., $\\mu$
 
 A 3D surface plot where the X and Y axes represent $\\mu$ and $\\sigma$, and the Z axis represents the Total Likelihood. We visualize the "Optimization Peak" that the algorithm must climb.
 
-!\[MLE 3D Surface Optimization](../../../assets/55\_mle\_3d.png)
+![MLE 3D Surface Optimization](../../../assets/55\_mle\_3d.png)
 
 
 
