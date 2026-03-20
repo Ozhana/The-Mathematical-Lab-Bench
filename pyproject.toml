@@ -1,0 +1,18 @@
+[project]
+name = "the-mathematical-lab-bench"
+version = "1.0.0"
+description = "A comprehensive Python-based mathematical laboratory for high school and beyond."
+authors = [
+    {name = "Dr. Ozhan Akdag", email = "ozhana@gmail.com"}
+]
+dependencies = [
+    "numpy>=1.20.0",
+    "matplotlib>=3.5.0",
+    "sympy>=1.10.0",
+    "fpdf2>=2.7.0",
+    "scipy>=1.8.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
